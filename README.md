@@ -2,7 +2,7 @@
 
 SkinPrune 是针对 **Minecraft PE 0.14.3** 的皮肤包精简方案
 
-删去游戏里附带的皮肤包 PNG 文件以精简安装包体积大小，但请保留 Steve/Alex以及皮肤包模型 JSON
+删去游戏里附带的皮肤包 PNG 文件以精简安装包体积大小，但请保留 Steve/Alex 以及皮肤包模型 JSON
 
 皮肤包的 PNG 依赖改为 Steve/Alex 皮肤并保留皮肤 ID, 模型 JSON 与联机模型映射
 
